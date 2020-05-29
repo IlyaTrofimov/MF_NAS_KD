@@ -1,2 +1,2 @@
 # MF_NAS_KD
-Multi-fidelity Neural Architecture Search withKnowledge Distillation
+Multi-fidelity Neural Architecture Search with Knowledge Distillation
